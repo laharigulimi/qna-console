@@ -25,7 +25,7 @@
 
 2. Using the Program:
     
-    Select an option from the menu:
+    Select an option from the menu to do the following:
     - Add a question with its answers.
     - Query answers for a specific question.
     - Exit the program.
